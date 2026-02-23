@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="InterestService.Application/InterestService.Application.csproj" />
+  <Project Path="InterestService.Domain/InterestService.Domain.csproj" />
+  <Project Path="InterestService.Repository/InterestService.Repository.csproj" />
+  <Project Path="InterestService/InterestService.csproj" />
+</Solution>

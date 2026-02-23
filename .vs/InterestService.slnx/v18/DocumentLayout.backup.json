@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA77CAB-77C9-FE7E-540D-0520E34E0BCF}|InterestService\\InterestService.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice\\controllers\\emicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA77CAB-77C9-FE7E-540D-0520E34E0BCF}|InterestService\\InterestService.csproj|solutionrelative:interestservice\\controllers\\emicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF810B84-81AF-7DBC-1981-FFE86AA6E378}|InterestService.Repository\\InterestService.Repository.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.repository\\repository\\emirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF810B84-81AF-7DBC-1981-FFE86AA6E378}|InterestService.Repository\\InterestService.Repository.csproj|solutionrelative:interestservice.repository\\repository\\emirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.application\\dto\\emiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|solutionrelative:interestservice.application\\dto\\emiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.application\\dto\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|solutionrelative:interestservice.application\\dto\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.application\\dto\\emirequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|solutionrelative:interestservice.application\\dto\\emirequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA77CAB-77C9-FE7E-540D-0520E34E0BCF}|InterestService\\InterestService.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EA77CAB-77C9-FE7E-540D-0520E34E0BCF}|InterestService\\InterestService.csproj|solutionrelative:interestservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA77CAB-77C9-FE7E-540D-0520E34E0BCF}|InterestService\\InterestService.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA77CAB-77C9-FE7E-540D-0520E34E0BCF}|InterestService\\InterestService.csproj|solutionrelative:interestservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF810B84-81AF-7DBC-1981-FFE86AA6E378}|InterestService.Repository\\InterestService.Repository.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.repository\\repository\\emischedulepdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF810B84-81AF-7DBC-1981-FFE86AA6E378}|InterestService.Repository\\InterestService.Repository.csproj|solutionrelative:interestservice.repository\\repository\\emischedulepdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.application\\dto\\emischeduleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|solutionrelative:interestservice.application\\dto\\emischeduleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8373445D-DE71-D421-2508-8F1448370EBC}|InterestService.Domain\\InterestService.Domain.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.domain\\model\\loanemischedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8373445D-DE71-D421-2508-8F1448370EBC}|InterestService.Domain\\InterestService.Domain.csproj|solutionrelative:interestservice.domain\\model\\loanemischedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.application\\interfaces\\iemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|solutionrelative:interestservice.application\\interfaces\\iemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF810B84-81AF-7DBC-1981-FFE86AA6E378}|InterestService.Repository\\InterestService.Repository.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF810B84-81AF-7DBC-1981-FFE86AA6E378}|InterestService.Repository\\InterestService.Repository.csproj|solutionrelative:interestservice.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.application\\dto\\paymentdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|solutionrelative:interestservice.application\\dto\\paymentdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.application\\interestservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62CEC872-9623-5D77-46BF-C18A9B0ABE0A}|InterestService.Application\\InterestService.Application.csproj|solutionrelative:interestservice.application\\interestservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8373445D-DE71-D421-2508-8F1448370EBC}|InterestService.Domain\\InterestService.Domain.csproj|c:\\users\\aniket\\desktop\\project\\interestservice\\interestservice.domain\\model\\interestaccurals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8373445D-DE71-D421-2508-8F1448370EBC}|InterestService.Domain\\InterestService.Domain.csproj|solutionrelative:interestservice.domain\\model\\interestaccurals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1948313171:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmiRepo.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Repository\\Repository\\EmiRepo.cs",
+              "RelativeDocumentMoniker": "InterestService.Repository\\Repository\\EmiRepo.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Repository\\Repository\\EmiRepo.cs",
+              "RelativeToolTip": "InterestService.Repository\\Repository\\EmiRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:39:38.292Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\DTO\\LoanDTO.cs",
+              "RelativeDocumentMoniker": "InterestService.Application\\DTO\\LoanDTO.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\DTO\\LoanDTO.cs",
+              "RelativeToolTip": "InterestService.Application\\DTO\\LoanDTO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:15:50.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmi.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\Interfaces\\IEmi.cs",
+              "RelativeDocumentMoniker": "InterestService.Application\\Interfaces\\IEmi.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\Interfaces\\IEmi.cs",
+              "RelativeToolTip": "InterestService.Application\\Interfaces\\IEmi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:40:44.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmiClient.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\DTO\\EmiClient.cs",
+              "RelativeDocumentMoniker": "InterestService.Application\\DTO\\EmiClient.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\DTO\\EmiClient.cs",
+              "RelativeToolTip": "InterestService.Application\\DTO\\EmiClient.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:27:49.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmiController.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService\\Controllers\\EmiController.cs",
+              "RelativeDocumentMoniker": "InterestService\\Controllers\\EmiController.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService\\Controllers\\EmiController.cs",
+              "RelativeToolTip": "InterestService\\Controllers\\EmiController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T02:50:45.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService\\appsettings.json",
+              "RelativeDocumentMoniker": "InterestService\\appsettings.json",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService\\appsettings.json",
+              "RelativeToolTip": "InterestService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T05:38:26.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService\\Program.cs",
+              "RelativeDocumentMoniker": "InterestService\\Program.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService\\Program.cs",
+              "RelativeToolTip": "InterestService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:30:43.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmischeduleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\DTO\\EmischeduleResponse.cs",
+              "RelativeDocumentMoniker": "InterestService.Application\\DTO\\EmischeduleResponse.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\DTO\\EmischeduleResponse.cs",
+              "RelativeToolTip": "InterestService.Application\\DTO\\EmischeduleResponse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:12:19.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmiRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\DTO\\EmiRequestDTO.cs",
+              "RelativeDocumentMoniker": "InterestService.Application\\DTO\\EmiRequestDTO.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\DTO\\EmiRequestDTO.cs",
+              "RelativeToolTip": "InterestService.Application\\DTO\\EmiRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T02:45:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmiSchedulePdf.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Repository\\Repository\\EmiSchedulePdf.cs",
+              "RelativeDocumentMoniker": "InterestService.Repository\\Repository\\EmiSchedulePdf.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Repository\\Repository\\EmiSchedulePdf.cs",
+              "RelativeToolTip": "InterestService.Repository\\Repository\\EmiSchedulePdf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T04:09:27.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoanEmiSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Domain\\Model\\LoanEmiSchedule.cs",
+              "RelativeDocumentMoniker": "InterestService.Domain\\Model\\LoanEmiSchedule.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Domain\\Model\\LoanEmiSchedule.cs",
+              "RelativeToolTip": "InterestService.Domain\\Model\\LoanEmiSchedule.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T04:32:39.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InterestService.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InterestService.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:06:22.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\DTO\\PaymentDetailDTO.cs",
+              "RelativeDocumentMoniker": "InterestService.Application\\DTO\\PaymentDetailDTO.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\DTO\\PaymentDetailDTO.cs",
+              "RelativeToolTip": "InterestService.Application\\DTO\\PaymentDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T02:31:21.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InterestAccurals.cs",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Domain\\Model\\InterestAccurals.cs",
+              "RelativeDocumentMoniker": "InterestService.Domain\\Model\\InterestAccurals.cs",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Domain\\Model\\InterestAccurals.cs",
+              "RelativeToolTip": "InterestService.Domain\\Model\\InterestAccurals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:08:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InterestService.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\InterestService.Application.csproj",
+              "RelativeDocumentMoniker": "InterestService.Application\\InterestService.Application.csproj",
+              "ToolTip": "C:\\Users\\aniket\\Desktop\\Project\\InterestService\\InterestService.Application\\InterestService.Application.csproj",
+              "RelativeToolTip": "InterestService.Application\\InterestService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T05:04:22.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 445,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

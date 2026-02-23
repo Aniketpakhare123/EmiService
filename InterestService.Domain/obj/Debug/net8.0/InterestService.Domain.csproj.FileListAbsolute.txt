@@ -1,0 +1,14 @@
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\bin\Debug\net8.0\InterestService.Domain.deps.json
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\bin\Debug\net8.0\InterestService.Domain.runtimeconfig.json
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\bin\Debug\net8.0\InterestService.Domain.dll
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\bin\Debug\net8.0\InterestService.Domain.pdb
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\obj\Debug\net8.0\InterestService.Domain.csproj.AssemblyReference.cache
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\obj\Debug\net8.0\InterestService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\obj\Debug\net8.0\InterestService.Domain.AssemblyInfoInputs.cache
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\obj\Debug\net8.0\InterestService.Domain.AssemblyInfo.cs
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\obj\Debug\net8.0\InterestService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\obj\Debug\net8.0\InterestService.Domain.dll
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\obj\Debug\net8.0\refint\InterestService.Domain.dll
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\obj\Debug\net8.0\InterestService.Domain.pdb
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\obj\Debug\net8.0\InterestService.Domain.genruntimeconfig.cache
+C:\Users\aniket\Desktop\Project\InterestService\InterestService.Domain\obj\Debug\net8.0\ref\InterestService.Domain.dll
