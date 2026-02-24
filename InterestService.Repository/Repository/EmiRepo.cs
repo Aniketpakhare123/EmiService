@@ -79,6 +79,8 @@ namespace InterestService.Repository.Repository
           PrincipalAmount = principal,
           InterestAmount = interest,
           PaymentStatus = "pending",
+          OpeningBalance = principal,
+          ClosingBalance = balance,
           PaidAmount = 0,
           PaidDate = null,
           PendingAmount = principal,
